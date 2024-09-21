@@ -20,7 +20,7 @@ This project is a simple clone of the Netflix homepage, designed to showcase HTM
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/RenukaChowdary96/netflix-clone.git
 Navigate to the project directory:
 
 bash
